@@ -1,5 +1,5 @@
 const { login } = require('../src/login');
 
 test('login returns true for valid user', () => {
-  expect(login({ user: 'nish', pass: 'ok' })).toBe(true); // THIS WILL FAIL
+  expect(login({ user: 'nish', pass: 'ok' })).toBe(true); 
 });
