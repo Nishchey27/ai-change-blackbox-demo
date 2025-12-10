@@ -1,0 +1,19 @@
+# Generated Cline outputs
+.diff_for_cline.txt
+analysis.json
+analysis.raw.txt
+verify.json
+verify.raw.txt
+.test_output.txt
+verify.tmp
+
+# Dependencies
+node_modules/
+package-lock.json
+
+# Environment
+.env
+.env.local
+node_modules/
+
+
