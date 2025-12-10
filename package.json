@@ -3,7 +3,10 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "jest --colors --runInBand"
+    "test": "jest --colors --runInBand",
+
+    "cline:analyze": "./scripts/analyze.sh",
+    "cline:verify": "./scripts/verify.sh"
   },
   "keywords": [],
   "author": "",
